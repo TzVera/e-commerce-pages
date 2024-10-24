@@ -1,0 +1,48 @@
+/* CSS login */
+
+#form_data_login {
+    width: min(18%, 100%);
+    margin: 10% 65%;
+}
+
+#fieldset_login{
+    background-color: rgba(0, 0, 0, 0.88);
+    box-shadow: 30px 10px 90px black;
+    backdrop-filter: blur(5px);
+    border-radius: 70px;
+    font-size: 20px;
+    color: white;
+}
+
+#legend_login{
+    background-color: rgba(192, 192, 192, 0.879);
+    padding: 3% 10%;
+    border: 2px solid white;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 20px;
+    color: black;
+}
+
+.label_login {
+    display: block;
+    margin: 1.8%;
+    text-align: center;
+    font-size: 20px;
+}
+
+#link_registro {
+    background-color: rgba(192, 192, 192, 0.879);
+    padding: 1% 2%;
+    position: absolute;
+    display: inline-block;
+    left: 50%;
+    transform: translate(-340%, -585%);
+    box-shadow: 2px 30px 20px rgba(0, 0, 0, 0.73);
+    backdrop-filter: blur(5px);
+    border: 2px solid white;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 20px;
+    color: black;
+}

@@ -1,0 +1,15 @@
+/* CSS mensaje de error */
+
+.error_container {
+    background-color: pink;
+    position: relative;
+    padding: 0.5% 30%;
+    margin-top: 16%;
+    margin-bottom: 1%;
+    box-shadow: 20px 20px 50px rgba(0,0,0,0.25);
+    border: 2px solid white;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 23px;
+    color: grey;
+}
